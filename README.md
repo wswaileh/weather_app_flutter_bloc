@@ -1,16 +1,21 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A new Weather App that built in Flutter.
 
-## Getting Started
+Bloc was used as a state management solution.
 
-This project is a starting point for a Flutter application.
+Used 'equatable' package to compare States and Events.
 
-A few resources to get you started if this is your first Flutter project:
+Used 'flutter_svg' to be able to show SVGs.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Used 'flutter_spinkit' for the Loading Spinner.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And Finally, used some Illustrations From unDraw.
+
+
+## Resources
+
+1. Equatable Package: https://pub.dev/packages/equatable.
+2. Flutter SVG Package: https://pub.dev/packages/flutter_svg.
+3. Flutter Spinkit Package https://pub.dev/packages/flutter_spinkit.
+4. unDraw for Amazing SVGs https://undraw.co/.
