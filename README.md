@@ -10,6 +10,8 @@ Used 'flutter_svg' to be able to show SVGs.
 
 Used 'flutter_spinkit' for the Loading Spinner.
 
+Used OpenWeatherAPI for actual Weather Data.
+
 And Finally, used some Illustrations From unDraw.
 
 
@@ -19,3 +21,4 @@ And Finally, used some Illustrations From unDraw.
 2. Flutter SVG Package: https://pub.dev/packages/flutter_svg.
 3. Flutter Spinkit Package https://pub.dev/packages/flutter_spinkit.
 4. unDraw for Amazing SVGs https://undraw.co/.
+5. OpenWeatherAPI https://openweathermap.org/api.
